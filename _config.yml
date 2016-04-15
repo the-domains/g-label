@@ -1,0 +1,28 @@
+name: G label
+favicon: null
+layout_spectrum: 0.3333205075468868
+typography_spectrum: 0.8439476359635592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20559335895814002
+  lightness: 0.8696070678997785
+  saturation: 0.915503982687369
+  rhythmicContrast: 0.6470051475334913
+purpose: []
